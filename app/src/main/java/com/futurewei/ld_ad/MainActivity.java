@@ -15,6 +15,12 @@ import com.huawei.hms.ads.reward.RewardAd;
 import com.huawei.hms.ads.reward.RewardAdLoadListener;
 import com.huawei.hms.ads.reward.RewardAdStatusListener;
 
+
+//6/1/24 test testaaa
+//Linda 6GitHub IDE training test test test//
+
+
+
 public class MainActivity extends AppCompatActivity {
     private Button watchAdButton;
 
